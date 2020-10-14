@@ -7,7 +7,7 @@ Find paper PDFs, along with some slides and notes, in this repository.
 ## Fall 2020 reading group schedule
 | Date | Paper | Slides/Notes | Presenter |
 |------------|-------------------------------------|------------------|----------------------------------|
-|10/04/2020|Review of representation learning, concept compression and etc.|TBA|Ziming Liu/Hong-Ye Hu|
+|10/11/2020|Review of machine learning and dynamical systems|slides|Ziming Liu/Hong-Ye Hu|
 
 ## Spring 2020 reading group schedule
 | Date | Paper | Slides/Notes | Presenter |

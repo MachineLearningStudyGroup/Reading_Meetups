@@ -8,7 +8,9 @@ Find paper PDFs, along with some slides and notes, in this repository.
 | Date | Paper | Slides/Notes | Presenter |
 |------------|-------------------------------------|------------------|----------------------------------|
 |10/11/2020|Review of machine learning and dynamical systems|[slides](slides/machine_learning_dynamical_system.pdf)|Ziming Liu/Hong-Ye Hu|
-|TBA|Review of machine learning and dynamical systems continues|[slides](slides/machine_learning_dynamical_system.pdf)|Ziming Liu/Hong-Ye Hu|
+|10/18/2020|Review of machine learning and dynamical systems continues|[slides](slides/machine_learning_dynamical_system.pdf)|Ziming Liu/Hong-Ye Hu|
+|11/1/2020|Ab initio solution of the many-electron Schrödinger equation with deep neural networks|[slides](https://docs.google.com/presentation/d/1mBirjJ3jWY86vrW4l0WB3HYFL1v_ShzpiQ32cgULXgA/edit#slide=id.p)|Bo Yuan|
+|11/8/2020|TBA(glass+AI)|tba|Ge Zhang(UPenn)|
 
 ## Spring 2020 reading group schedule
 | Date | Paper | Slides/Notes | Presenter |
